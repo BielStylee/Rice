@@ -9,10 +9,3 @@ Icon: Breeze_Snow <br>
 Shell: Zsh <br>
   Neofetch <br>
   
-![Screenshot from 2022-02-21 10-31-19](https://user-images.githubusercontent.com/91476417/154965260-dd848cd1-d914-4917-a3ed-76d0ba48ed3b.png)
-![Screenshot from 2022-02-21 10-31-30](https://user-images.githubusercontent.com/91476417/154965269-4638fd7f-aa57-4489-b0cb-8127eed6cb9d.png)
-
-Theme: Nordic_Darker <br>
-Icon: Breeze_Snow <br>
-Shell: Zsh <br>
-  Neofetch <br>
